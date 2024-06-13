@@ -1,1 +1,2 @@
-Hola estas son las despedidas
+Hola estas son las despedidas.
+Hola estas son las despedidas. 2.0
